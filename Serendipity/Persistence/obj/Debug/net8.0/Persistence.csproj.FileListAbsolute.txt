@@ -1,0 +1,16 @@
+/workspaces/Serendipity/Serendipity/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/workspaces/Serendipity/Serendipity/Persistence/bin/Debug/net8.0/Persistence.dll
+/workspaces/Serendipity/Serendipity/Persistence/bin/Debug/net8.0/Persistence.pdb
+/workspaces/Serendipity/Serendipity/Persistence/bin/Debug/net8.0/Domain.dll
+/workspaces/Serendipity/Serendipity/Persistence/bin/Debug/net8.0/Domain.pdb
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/Persistence.dll
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/Persistence.pdb
+/workspaces/Serendipity/Serendipity/Persistence/obj/Debug/net8.0/ref/Persistence.dll

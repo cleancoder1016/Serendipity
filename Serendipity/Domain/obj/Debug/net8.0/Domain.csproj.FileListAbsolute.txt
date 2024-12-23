@@ -1,0 +1,12 @@
+/workspaces/Serendipity/Serendipity/Domain/bin/Debug/net8.0/Domain.deps.json
+/workspaces/Serendipity/Serendipity/Domain/bin/Debug/net8.0/Domain.dll
+/workspaces/Serendipity/Serendipity/Domain/bin/Debug/net8.0/Domain.pdb
+/workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.dll
+/workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/refint/Domain.dll
+/workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.pdb
+/workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/ref/Domain.dll
