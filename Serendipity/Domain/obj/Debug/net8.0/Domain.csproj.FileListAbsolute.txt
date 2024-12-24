@@ -10,3 +10,15 @@
 /workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/refint/Domain.dll
 /workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.pdb
 /workspaces/Serendipity/Serendipity/Domain/obj/Debug/net8.0/ref/Domain.dll
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/bin/Debug/net8.0/Domain.dll
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/bin/Debug/net8.0/Domain.pdb
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.dll
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/Debug/net8.0/Domain.pdb
+/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/Debug/net8.0/ref/Domain.dll

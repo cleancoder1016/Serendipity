@@ -2749,19 +2749,19 @@
     ]
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "/home/minimalist/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Serendipity/Serendipity/API/API.csproj",
+      "projectUniqueName": "/home/minimalist/Documents/Serendipity/Serendipity/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/workspaces/Serendipity/Serendipity/API/API.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Serendipity/Serendipity/API/obj/",
+      "projectPath": "/home/minimalist/Documents/Serendipity/Serendipity/API/API.csproj",
+      "packagesPath": "/home/minimalist/.nuget/packages/",
+      "outputPath": "/home/minimalist/Documents/Serendipity/Serendipity/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "/home/minimalist/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2773,8 +2773,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/workspaces/Serendipity/Serendipity/Application/Application.csproj": {
-              "projectPath": "/workspaces/Serendipity/Serendipity/Application/Application.csproj"
+            "/home/minimalist/Documents/Serendipity/Serendipity/Application/Application.csproj": {
+              "projectPath": "/home/minimalist/Documents/Serendipity/Serendipity/Application/Application.csproj"
             }
           }
         }
@@ -2824,7 +2824,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/254/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

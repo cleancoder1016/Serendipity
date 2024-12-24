@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "/home/minimalist/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Serendipity/Serendipity/Domain/Domain.csproj",
+      "projectUniqueName": "/home/minimalist/Documents/Serendipity/Serendipity/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/workspaces/Serendipity/Serendipity/Domain/Domain.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Serendipity/Serendipity/Domain/obj/",
+      "projectPath": "/home/minimalist/Documents/Serendipity/Serendipity/Domain/Domain.csproj",
+      "packagesPath": "/home/minimalist/.nuget/packages/",
+      "outputPath": "/home/minimalist/Documents/Serendipity/Serendipity/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "/home/minimalist/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/254/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
